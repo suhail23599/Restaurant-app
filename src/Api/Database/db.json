@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "name": "suhail",
+      "email": "suhail@gmail.com",
+      "password": "123",
+      "id": 1
+    }
+  ],
+  "restaurants": [
+    {
+      "name": "lulua",
+      "address": "fahs12345",
+      "contact": "123",
+      "id": 27
+    },
+    {
+      "name": "vscgh",
+      "address": "shhd",
+      "contact": "122",
+      "id": 28
+    }
+  ]
+}
